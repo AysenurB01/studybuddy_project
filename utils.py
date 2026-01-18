@@ -71,3 +71,4 @@ def verify_password(password: str, stored_hash: str, stored_salt: str) -> bool:
         100_000
     )
     return hashed.hex() == stored_hash
+
