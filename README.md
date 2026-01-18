@@ -89,7 +89,7 @@ pytest  # Required only for running automated tests
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AysenurB01/studybuddy.git
+git clone https://github.com/AysenurB01/studybuddy_project.git
 cd studybuddy
 ```
 
@@ -381,6 +381,14 @@ python main.py
 ### Why Atomic Writes?
 - Prevents JSON corruption in case of crashes or interrupted writes.
 - Ensures data consistency without external database support.
+
+---
+
+## 📚 Project Documentation
+
+### Test Documentation
+- [Technical Specifications (PDF)](docs/technical_specifications.pdf)
+- Application logs are written to `logs/studybuddy.log`.
 
 ---
 
