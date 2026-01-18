@@ -216,7 +216,8 @@ studybuddy_project/
 ├── storage.py
 ├── utils.py
 ├── README.md
-└── .gitignore
+├── .gitignore
+└── technical_specifications.pdf
 ```
 
 ---
@@ -387,7 +388,7 @@ python main.py
 ## 📚 Project Documentation
 
 ### Test Documentation
-- [Technical Specifications (PDF)](docs/technical_specifications.pdf)
+- [Technical Specifications (PDF)](technical_specifications.pdf)
 - Application logs are written to `logs/studybuddy.log`.
 
 ---
