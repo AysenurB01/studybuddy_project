@@ -179,7 +179,7 @@ studybuddy_project/
 ├── logs/
 │   └── studybuddy.log
 │
-├── manual_tests/             # Manual QA assets (5 scripts + 4 docs)
+├── manual_tests/             # Manual QA assets (5 scripts + 10 Manual Test Cases)
 │   ├── auth_manual.py
 │   ├── deck_manual.py
 │   ├── card_manual.py
